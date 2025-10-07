@@ -1,0 +1,13 @@
+{
+  "prompt": "A library where books are organized by the emotions they evoke, not by subject or author.",
+  "tags": [
+    "library",
+    "emotion",
+    "organization",
+    "constraint",
+    "fantasy"
+  ],
+  "generated_at": "2025-10-07T06:00:46.735Z",
+  "id": "1759816846735",
+  "version": "worker-v1"
+}
