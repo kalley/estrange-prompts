@@ -1,0 +1,13 @@
+{
+  "prompt": "Every time someone tells a lie, a random street light within a mile turns off permanently.",
+  "tags": [
+    "rule",
+    "consequence",
+    "urban",
+    "ethics",
+    "constraint"
+  ],
+  "generated_at": "2025-10-11T06:00:15.563Z",
+  "id": "1760162415563",
+  "version": "worker-v1"
+}
