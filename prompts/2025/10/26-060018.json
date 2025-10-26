@@ -1,0 +1,11 @@
+{
+  "prompt": "All shadows now cast in the opposite direction of the light source.",
+  "tags": [
+    "constraint",
+    "visual",
+    "physics"
+  ],
+  "generated_at": "2025-10-26T06:00:18.452Z",
+  "id": "1761458418452",
+  "version": "worker-v1"
+}
