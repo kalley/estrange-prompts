@@ -1,0 +1,14 @@
+{
+  "prompt": "A clock that runs backward, but only when it is being actively observed.",
+  "tags": [
+    "object",
+    "time",
+    "paradox",
+    "observation",
+    "magic",
+    "constraint"
+  ],
+  "generated_at": "2025-10-29T06:00:42.938Z",
+  "id": "1761717642938",
+  "version": "worker-v1"
+}
