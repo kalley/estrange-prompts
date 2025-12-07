@@ -1,0 +1,12 @@
+{
+  "prompt": "A library where books rewrite themselves based on the last reader's mood.",
+  "tags": [
+    "library",
+    "books",
+    "mood",
+    "magic"
+  ],
+  "generated_at": "2025-12-07T06:00:24.335Z",
+  "id": "1765087224335",
+  "version": "worker-v1"
+}
