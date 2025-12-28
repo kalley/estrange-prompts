@@ -1,0 +1,14 @@
+{
+  "prompt": "A vending machine that only dispenses things you secretly wished for exactly 24 hours ago.",
+  "tags": [
+    "object",
+    "situation",
+    "constraint",
+    "wish",
+    "vending machine",
+    "time"
+  ],
+  "generated_at": "2025-12-28T06:00:21.759Z",
+  "id": "1766901621759",
+  "version": "worker-v1"
+}
