@@ -1,0 +1,14 @@
+{
+  "prompt": "A library where every book's ending is missing, and the last page contains a riddle.",
+  "tags": [
+    "constraint",
+    "object",
+    "situation",
+    "riddle",
+    "mystery",
+    "library"
+  ],
+  "generated_at": "2026-01-26T06:00:50.450Z",
+  "id": "1769407250450",
+  "version": "worker-v1"
+}
