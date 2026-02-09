@@ -1,0 +1,11 @@
+{
+  "prompt": "Every time someone says the word 'cat', a random musical instrument starts playing in the distance for 5 seconds.",
+  "tags": [
+    "weird rule",
+    "creative constraint",
+    "sound"
+  ],
+  "generated_at": "2026-02-09T06:00:22.036Z",
+  "id": "1770616822036",
+  "version": "worker-v1"
+}
