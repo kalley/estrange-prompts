@@ -1,0 +1,13 @@
+{
+  "prompt": "A city where gravity intermittently reverses for exactly 37 seconds every hour, but only for objects not currently in motion.",
+  "tags": [
+    "gravity",
+    "city",
+    "physics",
+    "constraint",
+    "situation"
+  ],
+  "generated_at": "2026-02-15T06:00:10.905Z",
+  "id": "1771135210905",
+  "version": "worker-v1"
+}
