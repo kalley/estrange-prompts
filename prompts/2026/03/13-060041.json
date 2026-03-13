@@ -1,0 +1,13 @@
+{
+  "prompt": "All liquids, when poured, temporarily adopt the texture of sand for exactly three seconds.",
+  "tags": [
+    "constraint",
+    "physical_property",
+    "liquid",
+    "sand",
+    "temporary"
+  ],
+  "generated_at": "2026-03-13T06:00:41.806Z",
+  "id": "1773381641806",
+  "version": "worker-v1"
+}
