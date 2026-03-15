@@ -1,0 +1,12 @@
+{
+  "prompt": "A vending machine that only dispenses things you didn't know you needed.",
+  "tags": [
+    "object",
+    "situation",
+    "constraint",
+    "unexpected"
+  ],
+  "generated_at": "2026-03-15T06:01:04.885Z",
+  "id": "1773554464885",
+  "version": "worker-v1"
+}
