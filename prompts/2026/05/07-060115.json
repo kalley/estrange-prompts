@@ -1,0 +1,12 @@
+{
+  "prompt": "A clock that only tells time backwards.",
+  "tags": [
+    "object",
+    "time",
+    "constraint",
+    "paradox"
+  ],
+  "generated_at": "2026-05-07T06:01:15.219Z",
+  "id": "1778133675219",
+  "version": "worker-v1"
+}
