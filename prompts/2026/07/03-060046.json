@@ -1,0 +1,12 @@
+{
+  "prompt": "All sounds echo for exactly 37 seconds, no more, no less.",
+  "tags": [
+    "sound",
+    "time",
+    "constraint",
+    "perception"
+  ],
+  "generated_at": "2026-07-03T06:00:46.188Z",
+  "id": "1783058446188",
+  "version": "worker-v1"
+}
