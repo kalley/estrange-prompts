@@ -1,0 +1,13 @@
+{
+  "prompt": "A library where books disappear if they haven't been read in the last hour.",
+  "tags": [
+    "library",
+    "books",
+    "disappearance",
+    "time constraint",
+    "fantasy"
+  ],
+  "generated_at": "2026-08-02T06:00:42.230Z",
+  "id": "1785650442230",
+  "version": "worker-v1"
+}
