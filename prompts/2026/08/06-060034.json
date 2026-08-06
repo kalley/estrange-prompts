@@ -1,0 +1,13 @@
+{
+  "prompt": "All clocks in the world suddenly start running backward, but only for exactly 3 minutes every hour.",
+  "tags": [
+    "time",
+    "reverse",
+    "clocks",
+    "mystery",
+    "constraint"
+  ],
+  "generated_at": "2026-08-06T06:00:34.599Z",
+  "id": "1785996034599",
+  "version": "worker-v1"
+}
