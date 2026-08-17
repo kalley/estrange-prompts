@@ -1,0 +1,13 @@
+{
+  "prompt": "A library where books rewrite themselves based on the last person who read them, incorporating their thoughts and feelings into the narrative.",
+  "tags": [
+    "library",
+    "books",
+    "memory",
+    "transformation",
+    "narrative"
+  ],
+  "generated_at": "2026-08-17T06:00:50.313Z",
+  "id": "1786946450313",
+  "version": "worker-v1"
+}
